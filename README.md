@@ -1,3 +1,4 @@
-# my_parser_practice_3
-Creating a parser using Rust programming language for educational purposes. 
+# my_parser
+# Creating a parser using Rust programming language for educational purpose.
+
 ![my_img](/img.png)
