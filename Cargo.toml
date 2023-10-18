@@ -1,0 +1,13 @@
+[package]
+name = "my_parser_practice_3"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description ="My fisrt parser"
+include = ["img"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+peg = "0.8.2"
