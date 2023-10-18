@@ -9,11 +9,7 @@ documentation = "https://docs.rs/my_parser_practice_3"
 homepage = "https://github.com/vladyslavBrothervinn/my_parser_practice_3"
 repository = "https://github.com/vladyslavBrothervinn/my_parser_practice_3"
 
-
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[lib]
-name = "lib.rs"
 
 [dependencies]
 peg = "0.8.2"
