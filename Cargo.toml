@@ -6,8 +6,7 @@ license = "MIT"
 description ="My fisrt parser"
 include = [
     "src/**/*",
-    "Cargo.toml",
-    "img"
+    "Cargo.toml"
     ]
 documentation = "https://docs.rs/my_parser_practice_3"
 homepage = "https://github.com/vladyslavBrothervinn/my_parser_practice_3"
